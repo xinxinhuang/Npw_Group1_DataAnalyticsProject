@@ -1,3 +1,7 @@
+## Live Dashboard Preview
+
+Explore the interactive dashboard here: **[Hugging Face Space: US Grocery & Gas Dashboard](https://huggingface.co/spaces/XinNate/us-grocery-gas-dashboard)**
+
 ## Getting Started in Google Colab
 
 This project was developed and executed using **Google Colab**. You do not need to manually download or manage local copies of `us_average_price_wide.csv`—the notebook automatically handles dataset ingestion directly from Kaggle.
