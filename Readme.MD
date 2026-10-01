@@ -1,3 +1,18 @@
+## Getting Started in Google Colab
+
+This project was developed and executed using **Google Colab**. You do not need to manually download or manage local copies of `us_average_price_wide.csv`—the notebook automatically handles dataset ingestion directly from Kaggle.
+
+To run the project notebook yourself:
+
+1. **Download the Notebook:** Clone this repository or download the `.ipynb` notebook file to your local machine.
+2. **Open Google Colab:** Navigate to [Google Colab](https://colab.research.google.com/) and sign in with your Google account.
+3. **Upload the File:** 
+   * Click **File** > **Upload notebook** (or select the **Upload** tab in the launch dialog).
+   * Choose the downloaded `.ipynb` file from your computer.
+4. **Run the Cells:** Execute the setup cells at the top of the notebook. The script will automatically authenticate and stream the Kaggle dataset directly into your Colab runtime environment.
+
+---
+
 # Data Analytics Project — Group 1 Report
 
 ## Table of Contents
